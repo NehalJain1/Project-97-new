@@ -1,0 +1,168 @@
+#body_1 {
+    background-image: linear-gradient(purple, blue);
+text-align: center;
+height: 760px;
+}
+
+#About_us {
+    background-color: yellow;
+    height: 60px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-position: center;
+background-size: cover;
+}
+
+#Signup_btn {
+    background-color: orange;
+    height: 60px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#Login_btn {
+    background-color: red;
+    height: 30px;
+    width: 200px;
+    font-size: large;
+    color: white;
+}
+
+#Admin {
+    background-color: blue;
+    height: 30px;
+    width: 200px;
+    font-size: large;
+    color: white;
+}
+
+#PhoneNo_input {
+     width: 1000px;
+     height: 20px;
+ }
+
+ #City_input {
+    width: 1000px;
+    height: 20px;
+    margin-right: -65px;
+}
+
+#Email_input {
+    width: 1000px;
+    height: 20px;
+    margin-right: -35px;
+}
+
+#Name_input {
+    width: 1000px;
+    height: 20px;
+    margin-right: -55px;
+}
+
+#Login_body {
+    background-image: linear-gradient(#f222b4, lightpink);
+    height: 760px;
+    background-position: center;
+background-size: cover;
+}
+
+#body_4 {
+    background-image: linear-gradient(cornflowerblue, lightgreen);
+    background-position: center;
+background-size: cover;
+}
+
+#bodylocation {
+    background-image: linear-gradient(#f222b4, lightpink);
+    height: 760px;
+    background-position: center;
+background-size: cover;
+}
+
+#address {
+    width: 1000px;
+    height: 25px;
+    margin-right: 23px;
+}
+
+#time {
+    width: 1000px;
+    height: 25px;
+}
+
+#next_page {
+    width: 200px;
+    height: 30px;
+    font-size: large;
+    background-color: red;
+}
+
+#text {
+    font-size: 27px;
+    text-align: center;
+    margin: 30px;
+}
+#text2 {
+    font-size: 27px;
+}
+#children_img {
+    width: 400px;
+    height: 400px;
+}
+#body_aboutUs {
+    background-image: linear-gradient(blue, #56e3f0);
+    height: 770px;
+    background-position: center;
+background-size: cover;
+}
+#Backbtn {
+    background-color: lightskyblue;
+    margin-right: 1400px;
+    width: 60px;
+    height: 25px;
+}
+#Thumbs_up {
+    width: 300px;
+    height: 300px;
+}
+#thanks_body {
+    background-image: linear-gradient(#d67af0, lightblue);
+    height: 760px;
+    background-position: center;
+background-size: cover;
+}
+#Back {
+    background-color: plum;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    bottom: 730px;
+}
+
+#passoward_id {
+    width: 300px;
+    height: 50px;
+    font-size: 50px;
+    text-align: center;
+    background-color:#d4d0cb;
+}
+
+#passowardbody{
+    background-image: linear-gradient(lightgreen, darkgreen);
+    background-position: center;
+    background-size: cover;
+     height: 789px;
+}
+#b {
+    background-image: linear-gradient(yellow, orange);
+    background-position: center;
+    background-size: cover;
+     height: 789px;
+}
+#info {
+width: 800px;
+height: 600px;
+background-color: #fcd579;
+}
